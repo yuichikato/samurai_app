@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-SamuraiApp::Application.config.secret_key_base = '91e7207f54f49dbfe730697229619c5a1c4619af1c7000851982f6ecf4242134db2181ce192b5b9789650fea60bcf976ffa363355aa6ba32d407ccbe0911ca2b'
+SamuraiApp::Application.config.secret_key_base = '1e0ae6d366452788534f891ee5d650b819adf3aa912eae5f55b8b8b39192ba262c61094a3e0bb86bc747b2831c4ec1c875dda586300bcc372c18818eb319a360'
